@@ -131,10 +131,10 @@ carousal start */
   text-align: center;
   overflow: hidden;
   width: 100%;
+/* 
+  max-width: 1782px; */
 
-  /* max-width: 1782px;
-
-  margin: 0 auto;
+  /* margin: 0 auto;
   aspect-ratio: 1782/838; */
 
   background-color: #000;
@@ -297,7 +297,7 @@ carousal start */
 .scroll-wrapper1 {
   width: 100%;
  overflow: hidden;
-  margin: 10px 10px;
+  margin: 10px 0;
 }
 
 .scroll-content1 {
@@ -320,7 +320,7 @@ carousal start */
 .scroll-wrapper2 {
   width: 100%;
   overflow: hidden;
-  margin: 10px 10px;
+  
 }
 
 .scroll-content2 {
@@ -942,10 +942,11 @@ carousal start */
     font-size:18px ;
   }
 .carousel-container{
-   width: 1000px;
+   width: 1060px;
+  
 }
 .carousel-slide{
-  width: 1000px;
+  width: 100%;
 }
 /* .ram1{
   object-fit: fit;
