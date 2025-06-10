@@ -1082,6 +1082,13 @@ width: 492px;
   .temple-footer {
     width: 1020px;
   }
+
+    .contact-info i {
+    margin-top: 6px;
+    min-width: 16px;
+    /*  vertically align icons with text */
+ 
+  }
   .company-name{
     font-size: 30px;
     margin-left:0;
