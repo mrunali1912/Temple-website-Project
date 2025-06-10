@@ -922,7 +922,9 @@ carousal start */
   }
 
   .logo img {
-  font-size: 20px;
+         width: 40px;
+        height: 40px;
+        margin-left: -19px;
   }
 
   .logo span {
